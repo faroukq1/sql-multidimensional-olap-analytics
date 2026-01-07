@@ -33,12 +33,6 @@ wheels/
 *.sqlite
 *.sqlite3
 
-# Data files (large datasets)
-*.csv
-*.xlsx
-*.xls
-data/
-datasets/
 
 # IDE
 .vscode/
