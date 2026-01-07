@@ -1,3 +1,3 @@
-project explanation will be here
+dataset link
 
-report in obsidan notes
+https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
