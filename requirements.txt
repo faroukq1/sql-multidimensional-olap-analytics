@@ -1,0 +1,22 @@
+# Database Connectivity
+psycopg2-binary
+sqlalchemy
+
+# Data Processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter (optional - for interactive development)
+jupyter
+ipykernel
+
+# Data Export
+openpyxl
+xlsxwriter
+
+# Additional utilities
+python-dotenv
